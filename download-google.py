@@ -4,7 +4,7 @@
 
 ###### Searching and Downloading Google Images to the local disk ######
 
-# Import Librarie
+# Import Libraries
 import sys
 version = (3, 0)
 cur_version = sys.version_info
